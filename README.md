@@ -12,16 +12,6 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
 
 本项目基于 [bestK/tv](https://github.com/bestK/tv) 进行重构与增强。
 
-<details>
-  <summary>点击查看项目截图</summary>
-  <img src="https://github.com/user-attachments/assets/df485345-e83b-4564-adf7-0680be92d3c7" alt="项目截图" style="max-width:600px">
-</details>
-
-## 🥇 感谢赞助
-
-- **[YXVM](https://yxvm.com)**  
-- **[ZMTO/VTEXS](https://zmto.com)**
-
 
 ## 🛠️ 技术栈
 
